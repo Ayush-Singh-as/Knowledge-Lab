@@ -5,7 +5,7 @@
 
   <img src="https://img.shields.io/badge/Status-Just%20Getting%20Started-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Deep%20Learning-blueviolet" />
-  <img src="https://img.shields.io/badge/Format-Jupyter%20Notebooks-FFD580" />
+  <img src="https://img.shields.io/badge/Format-Colab%20Notebooks-FFD580" />
   <img src="https://img.shields.io/badge/License-Open%20Knowledge-lightgrey" />
 
 </p>
@@ -33,3 +33,5 @@ A place to:
 ## Long-Term Vision
 As the notebooks accumulate, the lab will bloom into a reference point I can revisit, refine, and expand.  
 A living sketchbook for deep learning.
+
+PS: This readme file is written by ChatGPT 5.1.
